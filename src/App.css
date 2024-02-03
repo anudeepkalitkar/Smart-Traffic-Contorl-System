@@ -1,0 +1,25 @@
+body {
+	color: white;
+	background: url("../public/Images/SmartTraffic.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: "Lato", arial, sans-serif;
+}
+
+section {
+	background: inherit;
+}
+.section-title {
+	padding-bottom: 3%;
+	padding-top: 5%;
+}
+
+:root {
+    color-scheme: dark;
+  }
+.application{
+	min-height: 100vh ;
+
+}
