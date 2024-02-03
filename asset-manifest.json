@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Smart-Traffic-Contorl-System/static/css/main.dc159e37.css",
+    "main.js": "/Smart-Traffic-Contorl-System/static/js/main.f97c57d0.js",
+    "static/js/592.33a1c9cd.chunk.js": "/Smart-Traffic-Contorl-System/static/js/592.33a1c9cd.chunk.js",
+    "static/media/SmartTraffic.jpg": "/Smart-Traffic-Contorl-System/static/media/SmartTraffic.8751da323390c9ac990f.jpg",
+    "index.html": "/Smart-Traffic-Contorl-System/index.html",
+    "main.dc159e37.css.map": "/Smart-Traffic-Contorl-System/static/css/main.dc159e37.css.map",
+    "main.f97c57d0.js.map": "/Smart-Traffic-Contorl-System/static/js/main.f97c57d0.js.map",
+    "592.33a1c9cd.chunk.js.map": "/Smart-Traffic-Contorl-System/static/js/592.33a1c9cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc159e37.css",
+    "static/js/main.f97c57d0.js"
+  ]
+}
